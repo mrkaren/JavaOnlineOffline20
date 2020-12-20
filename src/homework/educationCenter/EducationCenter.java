@@ -93,7 +93,6 @@ public class EducationCenter implements Commands {
             }
         } else {
             System.out.println("Student does not exists");
-
         }
     }
 
